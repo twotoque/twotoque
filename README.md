@@ -2,7 +2,7 @@
 ## Computer Science w/ UX Design Minor @ Wilfrid Laurier University 
 
 I mainly specialize in <b>UX design, front-end development, and data visualization</b>. Some projects I've worked on are: </p>
-* [A website using Python to visualize Census 2021 data relative to Toronto's 150+ neighbourhoods](https://github.com/twotoque/torontoCensusVisualizer)
+* [A website using Python to visualize Census 2021 data relative to Toronto's 150+ neighbourhoods]([https://github.com/twotoque/torontoCensusVisualizer](https://torontocensusvisualizer.com/))
    - Github repo [here](https://github.com/twotoque/torontoCensusVisualizer)
 * [A Google Chrome extension to find elements in the periodic table](https://chromewebstore.google.com/detail/atomic-search-decay-calcu/emcigdjdlalmbmoaadjfdmlghckpplng?hl=en&authuser=1) *update coming soon!*
    - Github repo [here](https://github.com/twotoque/physicscalculator)
@@ -32,6 +32,6 @@ My resume is located [here](https://github.com/twotoque/resume/blob/main/Derek%2
 * **Under Armour Toronto 10K** - July 2024
 
 ### 📝 Other projects 
-* **[Wheel Trans Users Need Choice! A community report about the “Family of Services” program](https://drive.google.com/file/d/1hArEtFNQ2tEwH5DwUuRf0j-CnXnU3hw3/view)** - *TTCriders*, June 2023
-* **[
-Keep Scarborough Connected: a Community Vision for a Busway and Green Public Space in the Decommissioned Scarborough RT Rail Corridor](https://www.ttcriders.ca/line3report)** - *TTCriders*, February 2022
+* [Wheel Trans Users Need Choice! A community report about the “Family of Services” program](https://drive.google.com/file/d/1hArEtFNQ2tEwH5DwUuRf0j-CnXnU3hw3/view) - *TTCriders*, June 2023
+* [
+Keep Scarborough Connected: a Community Vision for a Busway and Green Public Space in the Decommissioned Scarborough RT Rail Corridor](https://www.ttcriders.ca/line3report) - *TTCriders*, February 2022
