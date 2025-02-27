@@ -27,6 +27,10 @@ My resume is located [here](https://github.com/twotoque/resume/blob/main/Derek%2
 * **Winter 2024:** Intermediate Hip Hop: *"Without Me"* - Eminem
 * **Fall 2023:** K-Pop: *"In Bloom"* - ZeroBaseOne, *"Get A Guitar"* - RIIZE
 
+### 🏃 Marathons
+* **Sporting Life 10K** - May 2025
+* ''Under Armour Toronto 10K** - July 2024
+
 ### 📝 Other projects 
 * **[Wheel Trans Users Need Choice! A community report about the “Family of Services” program](https://drive.google.com/file/d/1hArEtFNQ2tEwH5DwUuRf0j-CnXnU3hw3/view)** - *TTCriders*, June 2023
 * **[
