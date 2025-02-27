@@ -13,7 +13,7 @@ I mainly specialize in <b>UX design, front-end development, and data visualizati
 * [Sustainable transportation solution for designation. Third place at UX Laurier Blueprint 2024](https://docs.google.com/presentation/d/1ocDZhh4hSl4hK-PlxIheZ8_lzwHKfZOv8RuNFOSvR7s/edit?usp=sharing)
    - Figma high-fidelity prototype [here](https://www.figma.com/proto/BfvFXUcTYAlzNLayZaNqre/TransitBloom-Hi-Fi-Prototype?node-id=0-1578&node-type=canvas&t=dfUMUaTMfsMJhVMF-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
 
-My resume is [here](https://github.com/twotoque/resume/blob/main/Derek%20Song%20Resume%20-%20February%202025.pdf). Feel free to connect with me on LinkedIn [here](https://www.linkedin.com/in/dereksong/) 
+My resume is located [here](https://github.com/twotoque/resume/blob/main/Derek%20Song%20Resume%20-%20February%202025.pdf). Feel free to connect with me on LinkedIn [here](https://www.linkedin.com/in/dereksong/) 
 
 ### 🛠️ Tools/Skills
 
