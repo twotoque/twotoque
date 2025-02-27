@@ -2,7 +2,7 @@
 ## Computer Science w/ UX Design Minor @ Wilfrid Laurier University 
 
 I mainly specialize in <b>UX design, front-end development, and data visualization</b>. Some projects I've worked on are: </p>
-* [A website using Python to visualize Census 2021 data relative to Toronto's 150+ neighbourhoods]([https://github.com/twotoque/torontoCensusVisualizer](https://torontocensusvisualizer.com/))
+* [A website using Python to visualize Census 2021 data relative to Toronto's 150+ neighbourhoods](https://torontocensusvisualizer.com/)
    - Github repo [here](https://github.com/twotoque/torontoCensusVisualizer)
 * [A Google Chrome extension to find elements in the periodic table](https://chromewebstore.google.com/detail/atomic-search-decay-calcu/emcigdjdlalmbmoaadjfdmlghckpplng?hl=en&authuser=1) *update coming soon!*
    - Github repo [here](https://github.com/twotoque/physicscalculator)
