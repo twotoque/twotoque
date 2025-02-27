@@ -1,4 +1,4 @@
-# hi i'm derek! 
+# 🐇 hi i'm derek! 🍁
 ## Computer Science w/ UX Minor @ Wilfrid Laurier University 
 
 I mainly specialize in <b>UX design, front-end development, and data visualization</b>. Some projects I've worked on are: </p>
