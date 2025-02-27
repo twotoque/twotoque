@@ -28,6 +28,6 @@ My resume is located [here](https://github.com/twotoque/resume/blob/main/Derek%2
 * **Fall 2023:** K-Pop: *"In Bloom"* - ZeroBaseOne, *"Get A Guitar"* - RIIZE
 
 ### 📝 Other projects 
-* ***[Wheel Trans Users Need Choice! A community report about the “Family of Services” program](https://drive.google.com/file/d/1hArEtFNQ2tEwH5DwUuRf0j-CnXnU3hw3/view)*** - *TTCriders*, June 2023
-* ***[
-Keep Scarborough Connected: a Community Vision for a Busway and Green Public Space in the Decommissioned Scarborough RT Rail Corridor](https://www.ttcriders.ca/line3report)*** - *TTCriders*, February 2022
+* **[Wheel Trans Users Need Choice! A community report about the “Family of Services” program](https://drive.google.com/file/d/1hArEtFNQ2tEwH5DwUuRf0j-CnXnU3hw3/view)** - *TTCriders*, June 2023
+* **[
+Keep Scarborough Connected: a Community Vision for a Busway and Green Public Space in the Decommissioned Scarborough RT Rail Corridor](https://www.ttcriders.ca/line3report)** - *TTCriders*, February 2022
