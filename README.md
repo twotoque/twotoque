@@ -1,5 +1,5 @@
 # 🐇 hi i'm derek! 🍁
-## Computer Science w/ UX Minor @ Wilfrid Laurier University 
+## Computer Science w/ UX Design Minor, North American Studies @ Wilfrid Laurier University 
 
 I mainly specialize in <b>UX design, front-end development, and data visualization</b>. Some projects I've worked on are: </p>
 * [A website using Python to visualize Census 2021 data relative to Toronto's 150+ neighbourhoods](https://github.com/twotoque/torontoCensusVisualizer)
