@@ -2,10 +2,10 @@
 ## Computer Science w/ UX Minor @ Wilfrid Laurier University 
 
 I mainly specialize in <b>UX design, front-end development, and data visualization</b>. Some projects I've worked on are: </p>
-* [A Google Chrome extension to find elements in the periodic table](https://chromewebstore.google.com/detail/atomic-search-decay-calcu/emcigdjdlalmbmoaadjfdmlghckpplng?hl=en&authuser=1) *update coming soon!*
-   - Github repo [here](https://github.com/twotoque/physicscalculator)
 * [A website using Python to visualize Census 2021 data relative to Toronto's 150+ neighbourhoods](https://github.com/twotoque/torontoCensusVisualizer)
    - Github repo [here](https://github.com/twotoque/torontoCensusVisualizer)
+* [A Google Chrome extension to find elements in the periodic table](https://chromewebstore.google.com/detail/atomic-search-decay-calcu/emcigdjdlalmbmoaadjfdmlghckpplng?hl=en&authuser=1) *update coming soon!*
+   - Github repo [here](https://github.com/twotoque/physicscalculator)
 * [Visualization of biking data in Ward 23 Scarborough North, City of Toronto](https://github.com/twotoque/BikeShare-ScarboroughNorth)
 * [A website using Next.js to calculate user-inputted data and to show time lost due to the Line 3 Scarborough shutdown, TTCriders](https://github.com/twotoque/ttcLine3Calculator)
 * [Hackathon project to plan Toronto International Film Festival showings with your friends](https://github.com/twotoque/Hack-the-Six-2024)
