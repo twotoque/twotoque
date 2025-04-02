@@ -10,8 +10,13 @@ I mainly specialize in <b>UX design, front-end development, and data visualizati
 * [A website using Next.js to calculate user-inputted data and to show time lost due to the Line 3 Scarborough shutdown, TTCriders](https://github.com/twotoque/ttcLine3Calculator)
 * [Hackathon project to plan Toronto International Film Festival showings with your friends](https://github.com/twotoque/Hack-the-Six-2024)
 * [Setting up and maintaining the Laurier STEM Publishing Society website](https://www.laurierstempublishing.com/)
-* [Sustainable transportation solution for designation. Third place at UX Laurier Blueprint 2024](https://docs.google.com/presentation/d/1ocDZhh4hSl4hK-PlxIheZ8_lzwHKfZOv8RuNFOSvR7s/edit?usp=sharing)
+* [Sustainable transportation solution for designation. 🏆 Third place at UX Laurier Blueprint 2024](https://docs.google.com/presentation/d/1ocDZhh4hSl4hK-PlxIheZ8_lzwHKfZOv8RuNFOSvR7s/edit?usp=sharing)
    - Figma high-fidelity prototype [here](https://www.figma.com/proto/BfvFXUcTYAlzNLayZaNqre/TransitBloom-Hi-Fi-Prototype?node-id=0-1578&node-type=canvas&t=dfUMUaTMfsMJhVMF-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
+* [York University e-learning concept using React. 🏆 Third place at York Lassonde Hackathon 2025](https://docs.google.com/presentation/d/1mmPml3bYViGwdKy1LfTQjTGFgAUR1sMp8lleC3NClz8/edit?usp=sharing)
+   - Figma high-fidelity prototype [here](https://www.figma.com/proto/BfvFXUcTYAlzNLayZaNqre/TransitBloom-Hi-Fi-Prototype?node-id=0-1578&node-type=canvas&t=dfUMUaTMfsMJhVMF-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
+   - Deployment [here](yulearn.vercel.app/pages/dashboard)
+* [Music app that gameifies the discovery of international artists. 🏆 Best UI at UX Laurier Designathon 2025](https://docs.google.com/presentation/d/1YaEhNQdsA5-XOS6nTJA-Y1gMzx6ZYP_nHzLLPuZSADc/edit?usp=sharing)
+   - Figma high-fidelity prototype [here](https://www.figma.com/proto/baSZbOrt4ZUj4KDKYHbpTj/Globe.FM?node-id=113-2801&starting-point-node-id=113%3A2801&t=GEZDYC516UvKm7Ki-1)
 
 My resume is located [here](https://github.com/twotoque/resume/blob/main/Derek%20Song%20Resume%20-%20February%202025.pdf). Feel free to connect with me on LinkedIn [here](https://www.linkedin.com/in/dereksong/) 
 
@@ -22,7 +27,7 @@ My resume is located [here](https://github.com/twotoque/resume/blob/main/Derek%2
 * **Design tools:** Adobe Illustrator *(I easily spend a quarter of my day here)*, Photoshop, Lightroom, After Effects, InDesign, Premiere Pro, Figma, DaVinci Resolve, Canva 
 
 ### 🕺 Wilfrid Laurier University Recreational Dance Team Performances 
-* **Winter 2025:** Advanced Hip Hop, Intermediate Hip Hop *(TBA)*
+* **Winter 2025:** Advanced Hip Hop: *"6 Foot 7 Foot"* - Lil Wayne | Intermediate Hip Hop: *"All of the Lights"* - Kanye West
 * **Fall 2024:** K-Pop: *"Boom Boom Bass"* - RIIZE
 * **Winter 2024:** Intermediate Hip Hop: *"Without Me"* - Eminem
 * **Fall 2023:** K-Pop: *"In Bloom"* - ZeroBaseOne, *"Get A Guitar"* - RIIZE
