@@ -18,7 +18,10 @@ I mainly specialize in <b>UX design, front-end development, and data visualizati
 * [Music app that gameifies the discovery of international artists. 🏆 Best UI at UX Laurier Designathon 2025](https://docs.google.com/presentation/d/1YaEhNQdsA5-XOS6nTJA-Y1gMzx6ZYP_nHzLLPuZSADc/edit?usp=sharing)
    - Figma high-fidelity prototype [here](https://www.figma.com/proto/baSZbOrt4ZUj4KDKYHbpTj/Globe.FM?node-id=113-2801&starting-point-node-id=113%3A2801&t=GEZDYC516UvKm7Ki-1)
 
-My resume is located [here](https://github.com/twotoque/resume/blob/main/Derek%20Song%20Resume%20-%20February%202025.pdf). Feel free to connect with me on LinkedIn [here](https://www.linkedin.com/in/dereksong/) 
+### 📝 Resume/LinkedIn
+
+* My resume is located [here](https://github.com/twotoque/resume/blob/main/Derek%20Song%20Resume%20-%20February%202025.pdf).
+* Feel free to connect with me on LinkedIn [here](https://www.linkedin.com/in/dereksong/) 
 
 ### 🛠️ Tools/Skills
 
