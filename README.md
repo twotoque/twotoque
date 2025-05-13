@@ -29,6 +29,11 @@ I mainly specialize in <b>UX design, front-end development, and data visualizati
 * **Other tools:** WordPress, DNS management/website setup
 * **Design tools:** Adobe Illustrator *(I easily spend a quarter of my day here)*, Photoshop, Lightroom, After Effects, InDesign, Premiere Pro, Figma, DaVinci Resolve, Canva 
 
+### 🔎 Other projects 
+* [Wheel Trans Users Need Choice! A community report about the “Family of Services” program](https://drive.google.com/file/d/1hArEtFNQ2tEwH5DwUuRf0j-CnXnU3hw3/view) - *TTCriders*, June 2023
+* [
+Keep Scarborough Connected: a Community Vision for a Busway and Green Public Space in the Decommissioned Scarborough RT Rail Corridor](https://www.ttcriders.ca/line3report) - *TTCriders*, February 2022
+
 ### 🕺 Wilfrid Laurier University Recreational Dance Team Performances 
 * **Winter 2025:** Advanced Hip Hop: *"6 Foot 7 Foot"* - Lil Wayne | Intermediate Hip Hop: *"All of the Lights"* - Kanye West
 * **Fall 2024:** K-Pop: *"Boom Boom Bass"* - RIIZE
@@ -38,8 +43,3 @@ I mainly specialize in <b>UX design, front-end development, and data visualizati
 ### 🏃 Marathons
 * **Sporting Life 10K** - May 2025
 * **Under Armour Toronto 10K** - July 2024
-
-### 📝 Other projects 
-* [Wheel Trans Users Need Choice! A community report about the “Family of Services” program](https://drive.google.com/file/d/1hArEtFNQ2tEwH5DwUuRf0j-CnXnU3hw3/view) - *TTCriders*, June 2023
-* [
-Keep Scarborough Connected: a Community Vision for a Busway and Green Public Space in the Decommissioned Scarborough RT Rail Corridor](https://www.ttcriders.ca/line3report) - *TTCriders*, February 2022
