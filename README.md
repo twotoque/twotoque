@@ -20,7 +20,7 @@ I mainly specialize in <b>UX design, front-end development, and data visualizati
 
 ### 📝 Resume/LinkedIn
 
-* My resume is located [here](https://github.com/twotoque/resume/blob/main/Derek%20Song%20Resume%20-%20February%202025.pdf).
+* My resume is located [here](https://github.com/twotoque/resume/blob/main/Derek%20Song%20Resume%20-%20May%202025.pdf).
 * Feel free to connect with me on LinkedIn [here](https://www.linkedin.com/in/dereksong/) 
 
 ### 🛠️ Tools/Skills
