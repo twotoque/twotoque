@@ -1,5 +1,5 @@
 # 🐇 hi i'm derek! 🍁
-## Computer Science w/ UX Design Minor @ Wilfrid Laurier University 
+## Computer Science w/ UX Design Minor @ Wilfrid Laurier University
 
 I mainly specialize in <b>UX design, front-end development, and data visualization</b>. Some projects I've worked on are: </p>
 * [A website using Python to visualize Census 2021 data relative to Toronto's 150+ neighbourhoods](https://torontocensusvisualizer.com/)
@@ -20,7 +20,8 @@ I mainly specialize in <b>UX design, front-end development, and data visualizati
 
 ### 📝 Resume/LinkedIn
 
-* My resume is located [here](https://github.com/twotoque/resume/blob/main/Derek%20Song%20Resume%20-%20May%202025.pdf).
+* My resume is located [here]([https://github.com/twotoque/resume/blob/main/Derek%20Song%20Resume%20-%20May%202025.pdf](https://github.com/twotoque/resume/blob/main/Derek%20Song%20-%20June%202025%20Resume.pdf)).
+* Check out my website [here](https://twotoque.com/) 
 * Feel free to connect with me on LinkedIn [here](https://www.linkedin.com/in/dereksong/) 
 
 ### 🛠️ Tools/Skills
@@ -43,3 +44,5 @@ Keep Scarborough Connected: a Community Vision for a Busway and Green Public Spa
 ### 🏃 Marathons
 * **Sporting Life 10K** - May 2025
 * **Under Armour Toronto 10K** - July 2024
+  
+̶#̶g̶o̶h̶a̶b̶s̶g̶o̶  #letsgooilers
