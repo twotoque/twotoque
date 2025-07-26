@@ -1,7 +1,7 @@
 # 🐇 hi i'm derek! 🍁
-## Computer Science w/ UX Design Minor @ Wilfrid Laurier University <br> Graphics Administrative Assistant @ City of Toronto
+## Computer Science w/ UX Design Minor @ Wilfrid Laurier University <br> Software Developer & Geospatial Data Analysis @ Our Greenway Conservancy <br> Graphics Administrative Assistant @ City of Toronto
 
-I mainly specialize in <b>UX design, front-end development, and data visualization</b>. Some projects I've worked on are: </p>
+I mainly specialize in <b>UX design, front-end development, and data visualization</b>. I also work on geomatic/GIS-related projects, print design, and back-end development. Some projects I've worked on are: </p>
 * [A website using Python to visualize Census 2021 data relative to Toronto's 150+ neighbourhoods](https://torontocensusvisualizer.com/)
    - Github repo [here](https://github.com/twotoque/torontoCensusVisualizer)
 * [A Google Chrome extension to find elements in the periodic table](https://chromewebstore.google.com/detail/atomic-search-decay-calcu/emcigdjdlalmbmoaadjfdmlghckpplng?hl=en&authuser=1) *update coming soon!*
@@ -26,7 +26,7 @@ I mainly specialize in <b>UX design, front-end development, and data visualizati
 
 ### 🛠️ Tools/Skills
 
-* **Languages:** Python (Pandas, Plotly), JavaScript (React), Java, C, JSON, HTML, CSS
+* **Languages, tools, and frameworks:** Python (Pandas, Plotly), JavaScript (React), TypeScript, Java, C, JSON, HTML, CSS, ARM Assembly, R, Visual Basic, PostgreSQL (Supabase), Firebase, QGIS
 * **Other tools:** WordPress, DNS management/website setup
 * **Design tools:** Adobe Illustrator *(I easily spend a quarter of my day here)*, Photoshop, Lightroom, After Effects, InDesign, Premiere Pro, Figma, DaVinci Resolve, Canva 
 
@@ -44,5 +44,3 @@ Keep Scarborough Connected: a Community Vision for a Busway and Green Public Spa
 ### 🏃 Marathons
 * **Sporting Life 10K** - May 2025
 * **Under Armour Toronto 10K** - July 2024
-  
-̶#̶g̶o̶h̶a̶b̶s̶g̶o̶  #letsgooilers
