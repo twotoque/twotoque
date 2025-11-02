@@ -1,4 +1,8 @@
-# 🐇 hi i'm derek! 🍁
+
+
+![LinkedIn banner](https://github.com/twotoque/twotoque/blob/main/Linedin%20banner%206-01.png?raw=true)
+# 🐇 hi i'm derek! 
+
 ## Computer Science w/ UX Design Minor @ Wilfrid Laurier University <br> Software Developer & Geospatial Data Analysis @ Our Greenway Conservancy <br> Graphics Administrative Assistant @ City of Toronto
 
 I mainly specialize in <b>UX design, front-end development, and data visualization</b>. I also work on geomatic/GIS-related projects, print design, and back-end development. Some projects I've worked on are: </p>
