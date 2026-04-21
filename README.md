@@ -1,7 +1,7 @@
 ![LinkedIn banner](https://github.com/twotoque/twotoque/blob/main/Linedin%20banner%206-01.png?raw=true)
 # 🐇 hi i'm derek! 
 
-## Computer Science w/ UX Design Minor @ Wilfrid Laurier University <br> Graphics Administrative Assistant @ City of Toronto
+## Incoming Product Designer @ Mastercard <br> Graphics Administrative Assistant @ City of Toronto <br> Computer Science w/ UX Design Minor @ Wilfrid Laurier University
 I specialize in the intersection of **UX design, full stack development, and data analysis**.  I build tools that make data accessible and community-focused. 
 
 * **Website/Portfolio:** [twotoque.com](https://twotoque.com)
